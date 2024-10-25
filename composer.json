@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "phpmailer/phpmailer": "^6.4",
+        "illuminate/view": "^11.28",
+        "illuminate/filesystem": "^11.28",
+        "illuminate/events": "^11.28",
+        "illuminate/container": "^11.28"
+    }
+}
